@@ -1,0 +1,6 @@
+{
+  "name": "Durgesh Pal Portfolio",
+  "description": "Interactive 3D-animated developer portfolio for Durgesh Pal with an integrated Gemini AI Chatbot assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
